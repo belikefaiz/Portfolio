@@ -20,7 +20,7 @@ const ContactSection = () => {
               <div className="p-3 glass-card rounded-lg">
                 <Mail className="text-primary" size={20} />
               </div>
-              <span>faiz@example.com</span>
+              <span>faizsk297@gmail.com</span>
             </div>
             <div className="flex items-center gap-3 text-muted-foreground">
               <div className="p-3 glass-card rounded-lg">
@@ -32,12 +32,12 @@ const ContactSection = () => {
               <div className="p-3 glass-card rounded-lg">
                 <Phone className="text-primary" size={20} />
               </div>
-              <span>+91 98765 43210</span>
+              <span>+91 97736 62550</span>
             </div>
           </div>
 
           <a
-            href="mailto:faiz@example.com"
+            href="mailto:faizsk297@gmail.com"
             className="inline-flex px-10 py-4 bg-primary text-primary-foreground rounded-lg font-semibold text-lg hover:opacity-90 transition-all hover-lift glow-effect"
           >
             Say Hello

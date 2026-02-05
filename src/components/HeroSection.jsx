@@ -55,7 +55,7 @@ const HeroSection = () => {
           {/* Social Links */}
           <div className="flex items-center justify-center gap-6 animate-fade-up opacity-0" style={{ animationDelay: '600ms', animationFillMode: 'forwards' }}>
             <a
-              href="https://github.com"
+              href="https://github.com/belikefaiz"
               target="_blank"
               rel="noopener noreferrer"
               className="p-3 text-muted-foreground hover:text-primary transition-colors hover:-translate-y-1 duration-300"
@@ -64,7 +64,7 @@ const HeroSection = () => {
               <Github size={24} />
             </a>
             <a
-              href="https://linkedin.com"
+              href="https://www.linkedin.com/in/faiz-shaikh-b548a027a/"
               target="_blank"
               rel="noopener noreferrer"
               className="p-3 text-muted-foreground hover:text-primary transition-colors hover:-translate-y-1 duration-300"
@@ -73,7 +73,7 @@ const HeroSection = () => {
               <Linkedin size={24} />
             </a>
             <a
-              href="mailto:faiz@example.com"
+              href="mailto:faizsk297@gmail.com"
               className="p-3 text-muted-foreground hover:text-primary transition-colors hover:-translate-y-1 duration-300"
               aria-label="Email"
             >
